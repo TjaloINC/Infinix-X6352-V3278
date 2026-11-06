@@ -14,3 +14,9 @@ This repository contains the custom patched `boot.img` and related flashing file
 3. Flash the patched boot image using the following command:
    ```bash
    fastboot flash boot boot.img
+
+# The Problem
+
+## So the Problem Right Now ❓
+
+People Asks To Pay and Its Rarely to Find one For Free So I Decided to make my Own Working `Boot.img` File by Searching for 8 Hours ✔
